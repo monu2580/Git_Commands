@@ -38,6 +38,19 @@ i //press i to insert somthing
 esc :(shft+;) wq  // to save file
 
 
+4. // Work with Branch
 
+git branch //to Check/show all  Branches
+git branch <new Branch name> //to create New Branch
+git checkout <branch_name> //to switch to other branch
+
+git checkout -b <new Branch name> // to create new Branch and Switch to this new Branch
+
+git branch -d <branch name> //to delete created  branch
+
+git push --al  //to push everything
+
+//Line Added by branch b3
+//Lind Added by branch b2
 
 
