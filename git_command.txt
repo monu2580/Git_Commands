@@ -50,6 +50,13 @@ git branch -d <branch name> //to delete created  branch
 
 git push --al. (or) git push  //to push everything
 
+git checkout master
+git merge b2/b3 // to get Update From Branch to Master
+git push
+
+git checkout b2/b3
+git rebase master //to get Update From Master to branch
+
 //Line Added by branch b3
 //Lind Added by branch b2
 
