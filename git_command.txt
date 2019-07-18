@@ -1,0 +1,46 @@
+
+
+
+git clone git@github.com:monu2580/firstday.git
+
+git status
+
+git add pyprob1.py
+
+git checkout pyprob1.py
+
+git commit -m "first class"
+
+git push
+
+
+
+//to delete File From Github 
+rm sample.txt  //to delete File from workspace folder
+
+git status
+
+git rm sample.txt //notify to git
+
+(git add/rm <file>  // to update what will be committed)
+git checkout --<file>...  //to discard changes in working directory)
+ e.g.-  git checkout * 
+
+
+git commit -m "Deleted file"
+git push
+
+git status
+
+
+
+//To Edit File
+sudo vim demo.txt. //to do modification in file
+
+
+
+
+
+
+
+
