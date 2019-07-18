@@ -1,21 +1,21 @@
 
 
+1. //to Download/Use/Update Project from Github.com 
+git clone git@github.com:monu2580/firstday.git //to Update Prject from Github.com
 
-git clone git@github.com:monu2580/firstday.git
+git status //to check changes in
 
-git status
+git add pyprob1.py  // to add file to github
 
-git add pyprob1.py
+git checkout pyprob1.py //to notify changes to github 
 
-git checkout pyprob1.py
+git commit -m "first class" //commit file to github
 
-git commit -m "first class"
-
-git push
+git push //push changes file to github
 
 
 
-//to delete File From Github 
+2. //to delete File From Github 
 rm sample.txt  //to delete File from workspace folder
 
 git status
@@ -26,19 +26,16 @@ git rm sample.txt //notify to git
 git checkout --<file>...  //to discard changes in working directory)
  e.g.-  git checkout * 
 
-
 git commit -m "Deleted file"
 git push
 
-git status
 
-
-
-//To Edit File
+3. //To Edit File
 sudo vim demo.txt. //to do modification in file
 
+i //press i to insert somthing
 
-
+esc :(shft+;) wq  // to save file
 
 
 
