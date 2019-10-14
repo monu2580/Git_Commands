@@ -5,6 +5,8 @@ git clone git@github.com:monu2580/firstday.git //to Update Prject from Github.co
 
 git status //to check changes in
 
+gedit python.py //to write something
+
 git add pyprob1.py  // to add file to github
 
 git checkout pyprob1.py //to notify changes to github 
